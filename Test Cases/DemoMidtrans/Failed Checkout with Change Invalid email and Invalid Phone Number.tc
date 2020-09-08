@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Failed Checkout with Change Invalid email and Invalid Phone Number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb963df9-2640-460e-af68-cf019856c9ac</testCaseGuid>
+</TestCaseEntity>
